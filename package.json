@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavodido/nodejs-puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavodido/nodejs-puppeteer/issues"
+  },
+  "homepage": "https://github.com/gustavodido/nodejs-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  }
+}
